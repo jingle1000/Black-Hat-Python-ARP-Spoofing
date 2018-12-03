@@ -5,7 +5,7 @@ NETWORK SCANNER:
 Useage: python3 network_scanner_optparse.py -i -<default gateway ip> -s <cidr notation of network submask>
 Example: python3 network_scanner_optparse.py -i 10.0.0.1 -s 24
     
-    The network scanner optparse python program is designed to provide an easy to read, and more effective, way to find out the     ip and mac addresses of all devices on a local area network. 
+   The network scanner optparse python program is designed to provide an easy to read, and more effective, way to find out the    ip and mac addresses of all devices on a local area network. 
     
 PACKET SNIFFER:
 Useage: python3 packet_sniff.py
